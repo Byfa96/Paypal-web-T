@@ -1,1 +1,45 @@
 Tips xd
+
+git config --global user.name Fabian
+para revisar --> git config --global user.name
+
+git config --global user.email fab.parraguez@duocuc.cl
+para revisar --> git config --global user.email
+
+Para inicializar un git
+
+git init dentro del directorio
+
+
+git add nombre_archivo
+
+git add . --Agregar todos los archivos
+git add -a --Agregar todos los archivos
+
+git commit 
+git commit -m "nombre"
+git status --Revisar 
+
+git log --Historial de commit
+
+
+Para agregar un repositorio git
+
+git remote add (alias) (enlace)
+
+git remote -v --Lista el enlace que se mando con su sobrenombre
+
+git push (fuente) (rama) para subir a la nube un repositorio
+
+
+//POV COMPAÑERO
+
+git clone (enlace Github)
+
+
+//BIN
+para salir del editor bin es ESC, luego :wq
+
+
+//POV DUEÑO 
+git pull
